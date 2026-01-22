@@ -109,3 +109,123 @@ $ history
   108  git push origin master
   109  git pull origin master
   110  history
+
+Tuans
+    1  git clone https://github.com/espressif/arduino-esp32.git esp32
+    2  git remote add origin https://github.com/NVTUAN-681/shaw.git
+    3  git clone https://github.com/NVTUAN-681/shaw.git
+    4  git init
+    5  git remote add origin https://github.com/NVTUAN-681/NCKH_2025.git
+    6  git add .
+    7  git commit -m'Start-13/01'
+    8  git config --global user.email "viettuanmyduc@gmail.com"
+    9  git config --global user.name "K-681"
+   10  git commit -m'start 1301'
+   11  git push origin master
+   12  git push origin master
+   13  ls -al ~/.ssh
+   14  git config --global user.email "Viettuan5010@gmail.com"
+   15  git config --global user.name "K-681"
+   16  git config --global --list
+   17  ssh-keygen -t ed25519 -C "Viettuan5010@gmail.com"
+   18  cat ~/.ssh/id_ed25519.pub
+   19  git pull
+   20  git push origin master
+   21  git pull origin master
+   22  git add .
+   23  git commit -m'start 1301'
+   24  git push origin master
+   25  git branch --set-upstream-to=origin/master master
+   26  git pull origin master --rebase
+   27  git push origin master
+   28  git pull origin master
+   29  git pull
+   30  git pull origin master
+   31  git pull origin master --rebase
+   32  git clean -fd
+   33  git pull origin master --rebase
+   34  git clean -fd
+   35  git pull origin master --rebase
+   36  git status
+   37  git reset --hard HEAD
+   38  git pull origin master --rebase
+   39  git pull
+   40  git add .
+   41  git commit -m'1801'
+   42  git push origin master
+   43  git init
+   44  git touch a.txt
+   45  echo "# test" >> README.md
+   46  git init
+   47  git add README.md
+   48  git commit -m "first commit"
+   49  git branch -M main
+   50  git remote add origin https://github.com/NVTUAN-681/test.git
+   51  git push -u origin main
+   52  git checkout master
+   53  git branch
+   54  git branch
+   55  git pull
+   56  git branch
+   57  git branch -m main master
+   58  git fecth origin
+   59  git fetch origin
+   60  git branch -u origin/master master
+   61  git remote set-head origin -a
+   62  git add .
+   63  git commit -m'0255'
+   64  git push origin master
+   65  git add .
+   66  git commit -m '0258'
+   67  git push origin master
+   68  git add .
+   69  git commit -m'commit 2101'
+   70  git push origin master
+   71  git init
+   72  git remote add origin https://github.com/NVTUAN-681/KHMT.git
+   73  git add .
+   74  git commit -m '2201'
+   75  git push origin master
+   76  git init
+   77  git remote add origin https://github.com/NVTUAN-681/test.git
+   78  git add .
+   79  git commit -m 'first commit 0810'
+   80  git push origin master
+   81  echo "first commit" >> "first.txt"
+   82  git add .
+   83  git commit -m 'first commit 0812"
+
+'
+   84  git push origin master
+   85  git branch
+   86  git help
+   87  git branch
+   88  git branch -a
+   89  git branch -all
+   90  git fetch --all
+   91  git checkout hai
+   92  echo 'hai' >> 'haingu.txt'
+   93  git add haingu.txt
+   94  git commit -m'Tuan_1036'
+   95  git push origin hai
+   96  git checkout master
+   97  git merge hai -- allow-unrelated-histories
+   98  git merge hai --allow-unrelated-histories
+   99  git status
+  100  git log
+  101  git log --oneline --graph --all
+  102  git push origin master
+  103  git pull origin master
+  104  git push origin master
+  105  git status
+  106  git merge --abort
+  107  git pull origin master
+  108  git add haingu.txt
+  109  git commit -m 'Tuan_merge1058'
+  110  git push origin master
+  111  history
+  112  git pull
+  113  git clone https://github.com/NVTUAN-681/test
+  114  git pull origin master
+  115  history
+

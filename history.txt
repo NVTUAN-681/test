@@ -1,0 +1,111 @@
+$ history
+    1  ls -al ~/.ssh
+    2  git init
+    3  mkdir git_test
+    4  cd git_test
+    5  git init
+    6  git remote add origin https://github.com/haihuang819/git_test.git
+    7  echo 'hai ngu' >> 'haingu.txt'
+    8  git add haingu.txt
+    9  git commit -m'hai commit 0751'
+   10  git push origin master
+   11  git config --global user.name "haihuang819"
+   12  git config --global user.email "hailunzzaa12@gmail.com"
+   13  git push origin master
+   14  git push -u origin master
+   15  git log
+   16  git add .
+   17  git commit -m 'hehe'
+   18  git push
+   19  git push origin master
+   20  cat haingu.txt
+   21  git fetch origin
+   22  echo 'hai dep trai' >> 'haingu.txt'
+   23  cat haingu.txt
+   24  echo 'hai dep trai' > 'haingu.txt'
+   25  cat haingu.txt
+   26  git add haingu.txt
+   27  git commit -m 'second commit 0806'
+   28  git push origin master
+   29  git fetch origin
+   30  git branch
+   31  git pull
+   32  git branch
+   33  git merge tuan
+   34  git merge origin/tuan
+   35  git log
+   36  git help
+   37  git status
+   38  git pull https://github.com/haihuang819/git_test.git
+   39  git branch
+   40  git fetch origin
+   41  git checkout master
+   42  git merge origin/tuan --allow-unrelated-histories
+   43  git push origin master
+   44  git clone https://github.com/haihuang819/git_test/tree/Git_command
+   45  git clone https://github.com/haihuang819/git_test.git
+   46  git fetch
+   47  git merge origin/Git_command --allow-unrelated-histories
+   48  git push origin master
+   49  git branch
+   50  hehe
+   51  git fetch origin
+   52  git init
+   53  git remote add origin https://github.com/haihuang819/final.git
+   54  git add .
+   55  git commit -m''
+   56  git commit -m' '
+   57  echo ' ' >> "start'
+   58  echo ' ' >> "start"
+   59  clear
+   60  "
+   61  '
+   62  "
+   63  '
+   64  echo ' ' >> "start"
+   65  git add .
+   66  git commit -m 'first commit'
+   67  git push
+   68  git push origin master
+   69  rm start' echo ' '  startclear
+   70  '
+   71  rm "start' echo ' '  startclear"
+   72  git add .
+   73  git commit -m 'real first commit'
+   74  git push
+   75  git push origin
+   76  git push origin master
+   77  git log
+   78  C:
+   79  cd C:
+   80  cd yyy
+   81  git init
+   82  git remote add origin https://github.com/NVTUAN-681/test.git
+   83  git branch
+   84  git add .
+   85  git commit -m 'hai_0834'
+   86  echo 'moew' >> 'hai.txt'
+   87  git add .
+   88  git commit -m 'hai_0834'
+   89  git push origin master
+   90  git branch -m hai
+   91  git push origin hai
+   92  git branch
+   93  git pull origin master
+   94  git branch
+   95   git branch
+   96  tuan ngu qwuas
+   97  git branch -a
+   98  git fetch --all
+   99  git checkout mastet
+  100  git checkout master
+  101  git pull origin master
+  102  echo 'hai_ngu' >> 'haingu.txt'
+  103  git add .
+  104  git commit -m'1034'
+  105  git push origin master
+  106  history
+  107  git add .
+  108  git push origin master
+  109  git pull origin master
+  110  history
